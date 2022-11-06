@@ -1,3 +1,5 @@
+const obj = { key: "value" };
+
 console.log("app1");
 
 // add 조지
