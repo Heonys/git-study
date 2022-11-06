@@ -1,3 +1,5 @@
+const obj = { key: "value" };
+
 console.log("app1");
 
 // add 조지
@@ -6,3 +8,4 @@ console.log("app1");
 // first branch commit
 
 const arr = [1, 2, 3];
+// second branch commit
