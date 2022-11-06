@@ -1,4 +1,4 @@
-console.log("app2");
+console.log("직접pp2 수정");
 
 console.log("add local ");
 
