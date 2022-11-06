@@ -1,4 +1,4 @@
-console.log("app2");
+console.log("수정 app2 ");
 
 console.log("add local ");
 
