@@ -6,3 +6,6 @@ console.log("add local ");
 console.log("add local2 - 2  ");
 
 console.log("origin local3 ");
+
+console.log("첫 작업 + 살짝수정");
+console.log("까먹은 두번째 작업");
